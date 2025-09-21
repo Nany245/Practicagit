@@ -23,4 +23,7 @@ Lo que me resultó más fácil fué hacer los commits JAJSJS, lo más difícil p
 fué el pull ya que como tengo ya el archivo, simular que era otra persona como que no se me dió 
 muy bien, pero entendí el conceptooo.
 
-Pd. Gracias por crear esta práctica para que podamos mejorarrr, se aprecia mucho!!
+Pd. Gracias por crear esta práctica para que podamos mejorarrr, se aprecia mucho!!\
+
+
+### MUY BIEN
